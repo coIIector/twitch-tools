@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/twitch-tools/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/twitch-tools/static/js/main.bcc4e245.chunk.js",
+    "main.js.map": "/twitch-tools/static/js/main.bcc4e245.chunk.js.map",
+    "runtime-main.js": "/twitch-tools/static/js/runtime-main.154f3c37.js",
+    "runtime-main.js.map": "/twitch-tools/static/js/runtime-main.154f3c37.js.map",
+    "static/css/2.8c34e9cc.chunk.css": "/twitch-tools/static/css/2.8c34e9cc.chunk.css",
+    "static/js/2.2cf51021.chunk.js": "/twitch-tools/static/js/2.2cf51021.chunk.js",
+    "static/js/2.2cf51021.chunk.js.map": "/twitch-tools/static/js/2.2cf51021.chunk.js.map",
+    "index.html": "/twitch-tools/index.html",
+    "precache-manifest.51e916157a63a2ea222a069540cb4a68.js": "/twitch-tools/precache-manifest.51e916157a63a2ea222a069540cb4a68.js",
+    "service-worker.js": "/twitch-tools/service-worker.js",
+    "static/css/2.8c34e9cc.chunk.css.map": "/twitch-tools/static/css/2.8c34e9cc.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/twitch-tools/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.2cf51021.chunk.js.LICENSE": "/twitch-tools/static/js/2.2cf51021.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.154f3c37.js",
+    "static/css/2.8c34e9cc.chunk.css",
+    "static/js/2.2cf51021.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.bcc4e245.chunk.js"
+  ]
+}
