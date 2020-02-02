@@ -1,8 +1,8 @@
 import React, { Component } from "react"
-import "./App.css"
+// import "./App.css"
 import "bootstrap/dist/css/bootstrap.min.css"
 
-import { Navbar, Nav, FormControl, Form, Button, Container, Row, Col } from "react-bootstrap"
+import { Navbar, Nav, Form, Button, Container, Row, Col } from "react-bootstrap"
 
 const TWITCH_CLIENT_ID = "jzkbprff40iqj646a697cyrvl0zt2m6"
 
